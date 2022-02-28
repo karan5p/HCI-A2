@@ -7,6 +7,7 @@ Dropbox overwrite, Comment character count, Chat buttons simplified
 
 # Links
 Figma - https://www.figma.com/proto/NrAsWEEJtsAUD9vpxD9NR3/A2?page-id=0%3A1&node-id=2%3A2&viewport=241%2C48%2C0.66&scaling=scale-down&starting-point-node-id=2%3A2
+
 Youtube - https://youtu.be/Ug1ypZHy0eg
 
 # New Desirable Functionalities
